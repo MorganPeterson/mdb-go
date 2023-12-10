@@ -1,3 +1,7 @@
+# NOTICE
+
+__Source code has been moved to [Sourcehut](https://git.sr.ht/~nullevoid/mdb-go) and this repository has been archived.__
+
 # MDB
 
 MDB is a simple JSON file database written in Go.
